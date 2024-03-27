@@ -4,7 +4,7 @@
   "repository": {
     "url": "git://github.com/f3n215/github-pkg-demo.git"
   },
-  "version": "1.0.0",
+  "version": "1.1.0",
   "description": "",
   "main": "index.js",
   "scripts": {
